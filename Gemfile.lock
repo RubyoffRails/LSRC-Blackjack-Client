@@ -1,0 +1,15 @@
+GIT
+  remote: git://github.com/RubyoffRails/LSRC-Blackjack.git
+  revision: d2b4ec0f5d5fc2b0d2511befec70db85d893c56c
+  specs:
+    blackjack (0.0.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  blackjack!
